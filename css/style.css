@@ -38,9 +38,23 @@ header img {
     background-color: white;
 }
 
-
-
 .section-head {
-    padding: 3%;
+    padding: 20px;
     border-bottom: 2px lightgray solid;
+}
+.add-task, .add-section {
+    display: inline-block;
+    padding: 5px;
+    color: white;
+    border-radius: 15%;
+}
+
+.add-task {
+    background-color: #47ADF1;
+    border: #47ADF1 solid;
+}
+
+.add-section {
+    color: lightgray;
+    border: lightgray 3px solid;
 }

@@ -60,9 +60,57 @@ header img {
 }
 
 .section-main {
-    padding: 40px;
+    padding: 20px;
 }
 
 .unorderedlist-main {
-    list-style-type: &#x025BE;
+       font-family: 'Oxygen', sans-serif;
+    list-style: none;
+}
+
+.unorderedlist-second {
+    list-style: none;
+    
+}
+.categoria-blu {
+    display: inline-block;
+    background-color:#47ADF1 ;
+    padding: 5px;
+    border-radius: 10px 10px 10px 10px;
+    margin: 5px;
+}
+
+.list-item {
+    margin: 10px;
+}
+.categoria-viola {
+    display: inline-block;
+    background-color:#9C72E4 ;
+    padding: 5px;
+    border-radius: 10px 10px 10px 10px;
+    margin: 5px;
+}
+
+.categoria-verde {
+    display: inline-block;
+    background-color:#64C0A8 ;
+    padding: 5px;
+    border-radius: 10px 10px 10px 10px;
+    margin: 5px;
+}
+
+.categoria-arancione {
+    display: inline-block;
+    background-color:#F29E33 ;
+    padding: 5px;
+    border-radius: 10px 10px 10px 10px;
+    margin: 5px
+}
+
+.categoria-magenta {
+    display: inline-block;
+    background-color:#D863A0 ;
+    padding: 5px;
+    border-radius: 10px 10px 10px 10px;
+    margin: 5px
 }

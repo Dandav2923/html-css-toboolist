@@ -37,3 +37,10 @@ header img {
     margin: 3% auto;
     background-color: white;
 }
+
+
+
+.section-head {
+    padding: 3%;
+    border-bottom: 2px lightgray solid;
+}

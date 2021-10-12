@@ -58,3 +58,11 @@ header img {
     color: lightgray;
     border: lightgray 3px solid;
 }
+
+.section-main {
+    padding: 40px;
+}
+
+.unorderedlist-main {
+    list-style-type: &#x025BE;
+}

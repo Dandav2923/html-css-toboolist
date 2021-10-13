@@ -37,6 +37,7 @@ header img {
     width: 80%;
     margin: 3% auto;
     background-color: white;
+    border-radius: 5px;
 }
 
 .section-head {

@@ -65,13 +65,13 @@ header img {
     padding: 20px;
 }
 
-.unorderedlist-main {
+.unorderedlist-main  {
     font-family: 'Oxygen', sans-serif;
     list-style: none;
 }
 
 .unorderedlist-second {
-    list-style: none;
+    list-style: none;     
     
 }
 
